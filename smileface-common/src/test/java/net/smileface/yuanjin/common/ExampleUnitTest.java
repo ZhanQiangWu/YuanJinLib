@@ -1,4 +1,4 @@
-package net.smileface.yuanjin;
+package net.smileface.yuanjin.common;
 
 import org.junit.Test;
 
